@@ -1,8 +1,7 @@
 $(function () {
     $("#example").DataTable(); //Llamamos a la funcion de una libreria externa para la creacion de la tabla
-
     // Cargamos el archivo en una variable
-    var testDataUrl = "DominiosEstadisticas.json"
+    var testDataUrl = "Datos\\DominiosEstadisticas.json"
 
     $("#loadData").click(function () {
         loadData(); //Llamamos a la funcion de cargar datos

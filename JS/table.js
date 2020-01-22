@@ -4,7 +4,7 @@ function mostrarDatos() {
 
     var ajax = new XMLHttpRequest();
 
-    ajax.open("GET", "DominiosEstadisticas2.json", true);
+    ajax.open("GET", "Datos\\DominiosEstadisticas2.json", true);
     ajax.send();
 
     ajax.addEventListener("load", function () {

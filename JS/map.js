@@ -2,7 +2,7 @@ var arrayMapa = []; //Array donde estan las comunidades y sus dominios
 var datosRecibidos;
 
 var ajax = new XMLHttpRequest();
-ajax.open("GET", "DatosMapa.json", true);
+ajax.open("GET", "Datos\\DatosMapa.json", true);
 ajax.send();
 
 // Cuando cargue la pagina ejecuta la funcion de parsear los datos JSON y los introduce en un array
