@@ -1,0 +1,82 @@
+[
+  {
+    "Comunidad": "Andalucia",
+    "Dominios": 22636
+  },
+  {
+    "Comunidad": "Aragón",
+    "Dominios": 43095
+  },
+  {
+    "Comunidad": "Asturias_1_",
+    "Dominios": 33966
+  },
+  {
+    "Comunidad": "Cantabria",
+    "Dominios": 16005
+  },
+  {
+    "Comunidad": "Castilla_La_Mancha",
+    "Dominios": 46654
+  },
+  {
+    "Comunidad": "Castilla_y_León",
+    "Dominios": 68831
+  },
+  {
+    "Comunidad": "Cataluna",
+    "Dominios": 222643
+  },
+  {
+    "Comunidad": "Ceuta_1_",
+    "Dominios": 890
+  },
+  {
+    "Comunidad": "Extremadura",
+    "Dominios": 2104
+  },
+  {
+    "Comunidad": "Galicia",
+    "Dominios": 83666
+  },
+  {
+    "Comunidad": "Islas_Baleares",
+    "Dominios": 33607
+  },
+  {
+    "Comunidad": "Islas_Canarias",
+    "Dominios": 51524
+  },
+  {
+    "Comunidad": "La_Rioja_1_",
+    "Dominios": 63154
+  },
+  {
+    "Comunidad": "Madrid",
+    "Dominios": 402984
+  },
+  {
+    "Comunidad": "Melilla_1_",
+    "Dominios": 923
+  },
+  {
+    "Comunidad": "Murcia",
+    "Dominios": 55082
+  },
+  {
+    "Comunidad": "Navarra",
+    "Dominios": 15866
+  },
+  {
+    "Comunidad": "Pais_Vasco",
+    "Dominios": 44830
+  },
+  {
+    "Comunidad": "Valencia_1_",
+    "Dominios": 183219
+  },
+  {
+    "Comunidad": "Total",
+    "Dominios": 1614339
+  }
+]
